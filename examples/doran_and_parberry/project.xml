@@ -2,7 +2,7 @@
 <project>
 	
 	<meta title="Doran & Parberry's example" package="com.leveluplabs.example" version="1.0.0" company="LevelUpLabs" />
-	<app main="Main" path="Export" file="doran_and_parberry"/>
+	<app main="ApplicationMain" path="Export" file="doran_and_parberry"/>
 	
 	<source path="Source" />
 	
